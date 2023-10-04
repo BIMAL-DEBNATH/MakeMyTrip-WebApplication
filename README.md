@@ -33,4 +33,4 @@ To run this project locally, you need to have Java 8 or higher, MySQL 5.7 or hig
 
 This project is licensed under the MIT License - see the [LICENSE] file for details.
 
-I hope this helps you with your project. 😊
+I hope you like this project . 😊
