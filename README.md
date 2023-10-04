@@ -26,7 +26,7 @@ To run this project locally, you need to have Java 8 or higher, MySQL 5.7 or hig
 1. Clone this repository using `git clone https://github.com/BIMAL-DEBNATH/MakeMyTrip-WebApplication.git`.
 2. Navigate to the project directory using `cd make-my-trip-backend`.
 3. Run `mvn clean install` to build the project and generate a JAR file under `target` folder.
-4. Run `java -jar target/make-my-trip-backend-0.0.1-SNAPSHOT.jar` to start the backend service on port 8080.
+4. Run `java -jar target/MakeMyTrip-WebApplication-0.0.1-SNAPSHOT.jar` to start the backend service on port 8080.
 5. Use Postman or any other API testing tool to access the endpoints defined in the `MakeMyTripController.java` file under `src/main/java/com/example/makemytrip/controller`.
 
 ## License
